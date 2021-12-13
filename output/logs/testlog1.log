@@ -1,0 +1,409 @@
+2021-12-05 13:54:21,354 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-12-05 13:54:21,397 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2021-12-05 13:55:16,128 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-12-05 13:55:16,207 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2021-12-05 13:56:50,562 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-12-05 13:56:50,596 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2021-12-05 13:58:32,381 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 13:58:32,417 [main] INFO logger_File - Scenario User verify all items are present in Desktop page FAILED
+2021-12-05 13:59:39,518 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 13:59:39,551 [main] INFO logger_File - Scenario User verify all items are present in Desktop page FAILED
+2021-12-05 14:05:49,609 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 14:05:49,647 [main] INFO logger_File - Scenario User verify all items are present in Desktop page FAILED
+2021-12-05 14:08:21,765 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 14:08:21,802 [main] INFO logger_File - Scenario User verify all items are present in Desktop page FAILED
+2021-12-05 14:11:25,602 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 14:11:32,488 [main] INFO logger_File - User is on Retail website
+2021-12-05 14:11:32,632 [main] INFO logger_File - User click on Desktops tab
+2021-12-05 14:11:34,226 [main] INFO logger_File - User click on Show all desktops
+2021-12-05 14:11:34,606 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-12-05 14:11:34,611 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-05 16:51:18,712 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 16:51:26,646 [main] INFO logger_File - User is on Retail website
+2021-12-05 16:51:26,836 [main] INFO logger_File - User click on Desktops tab
+2021-12-05 16:51:27,473 [main] INFO logger_File - User click on Show all desktops
+2021-12-05 16:51:28,588 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-12-05 16:51:28,592 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-05 16:51:28,614 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 16:51:34,042 [main] INFO logger_File - User is on Retail website
+2021-12-05 16:51:34,116 [main] INFO logger_File - User click on Desktops tab
+2021-12-05 16:51:35,276 [main] INFO logger_File - User click on Show all desktops
+2021-12-05 16:51:35,370 [main] INFO logger_File - User click  ADD TO CART option on HPLP3065 item
+2021-12-05 16:51:37,371 [main] INFO logger_File - User select quantity 1
+2021-12-05 16:51:37,483 [main] INFO logger_File - User click add to Cart button
+2021-12-05 16:51:37,484 [main] INFO logger_File - User should see a message Success you have added HP LP 3065 to your Shopping cart
+2021-12-05 16:51:37,485 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-05 16:52:47,948 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 16:52:55,060 [main] INFO logger_File - User is on Retail website
+2021-12-05 16:52:55,260 [main] INFO logger_File - User click on Desktops tab
+2021-12-05 16:52:55,822 [main] INFO logger_File - User click on Show all desktops
+2021-12-05 16:52:57,529 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-12-05 16:52:57,532 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-05 16:52:57,548 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 16:53:02,122 [main] INFO logger_File - User is on Retail website
+2021-12-05 16:53:02,186 [main] INFO logger_File - User click on Desktops tab
+2021-12-05 16:53:02,873 [main] INFO logger_File - User click on Show all desktops
+2021-12-05 16:53:02,998 [main] INFO logger_File - User click  ADD TO CART option on HPLP3065 item
+2021-12-05 16:53:06,797 [main] INFO logger_File - User select quantity 1
+2021-12-05 16:53:06,870 [main] INFO logger_File - User click add to Cart button
+2021-12-05 16:53:06,873 [main] INFO logger_File - User should see a message Success you have added HP LP 3065 to your Shopping cart
+2021-12-05 16:53:06,875 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-05 19:12:11,436 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 19:12:23,991 [main] INFO logger_File - User is on Retail website
+2021-12-05 19:12:24,187 [main] INFO logger_File - User click on Desktops tab
+2021-12-05 19:12:25,118 [main] INFO logger_File - User click on Show all desktops
+2021-12-05 19:12:28,236 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-12-05 19:12:28,242 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-05 19:12:28,272 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-05 19:12:34,758 [main] INFO logger_File - User is on Retail website
+2021-12-05 19:12:35,020 [main] INFO logger_File - User click on Desktops tab
+2021-12-05 19:12:36,387 [main] INFO logger_File - User click on Show all desktops
+2021-12-05 19:12:36,634 [main] INFO logger_File - User click  ADD TO CART option on HPLP3065 item
+2021-12-05 19:12:41,282 [main] INFO logger_File - User select quantity 1
+2021-12-05 19:12:41,553 [main] INFO logger_File - User click add to Cart button
+2021-12-05 19:12:41,554 [main] INFO logger_File - User should see a message Success you have added HP LP 3065 to your Shopping cart
+2021-12-05 19:12:41,563 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-06 20:59:21,091 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-06 20:59:27,929 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 19:25:54,168 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 19:26:00,999 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 19:26:09,166 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 19:26:17,168 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 19:27:18,484 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 19:27:25,781 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 19:28:54,553 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-08 19:29:02,124 [main] INFO logger_File - User is on Retail website
+2021-12-08 19:29:02,325 [main] INFO logger_File - User click on Desktops tab
+2021-12-08 19:29:03,045 [main] INFO logger_File - User click on Show all desktops
+2021-12-08 19:29:03,425 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-12-08 19:29:03,428 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-08 19:29:03,453 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-08 19:29:09,803 [main] INFO logger_File - User is on Retail website
+2021-12-08 19:29:09,853 [main] INFO logger_File - User click on Desktops tab
+2021-12-08 19:29:10,800 [main] INFO logger_File - User click on Show all desktops
+2021-12-08 19:29:10,895 [main] INFO logger_File - User click  ADD TO CART option on HPLP3065 item
+2021-12-08 19:29:13,825 [main] INFO logger_File - User select quantity 1
+2021-12-08 19:29:13,960 [main] INFO logger_File - User click add to Cart button
+2021-12-08 19:29:13,961 [main] INFO logger_File - User should see a message Success you have added HP LP 3065 to your Shopping cart
+2021-12-08 19:29:13,964 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-08 19:29:44,983 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-08 19:29:50,919 [main] INFO logger_File - User is on Retail website
+2021-12-08 19:29:51,039 [main] INFO logger_File - User click on Desktops tab
+2021-12-08 19:29:51,803 [main] INFO logger_File - User click on Show all desktops
+2021-12-08 19:29:52,252 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-12-08 19:29:52,258 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-08 19:31:54,009 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-08 19:31:56,683 [main] INFO logger_File - Scenario User verify all items are present in Desktop page Started
+2021-12-08 19:32:10,163 [main] INFO logger_File - User is on Retail website
+2021-12-08 19:32:10,526 [main] INFO logger_File - User is on Retail website
+2021-12-08 19:32:10,966 [main] INFO logger_File - User click on Desktops tab
+2021-12-08 19:32:11,688 [main] INFO logger_File - User click on Show all desktops
+2021-12-08 19:32:14,689 [main] INFO logger_File - User should see all items are present in Desktop page
+2021-12-08 19:32:14,701 [main] INFO logger_File - Scenario User verify all items are present in Desktop page PASSED
+2021-12-08 19:32:15,129 [main] INFO logger_File - Scenario User verify all items are present in Desktop page FAILED
+2021-12-08 20:51:11,782 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 20:51:45,783 [main] INFO logger_File - Scenario Retail Website login test FAILED
+2021-12-08 20:55:22,564 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 20:55:43,547 [main] INFO logger_File - Scenario Retail Website login test FAILED
+2021-12-08 20:59:37,793 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:00:01,223 [main] INFO logger_File - Scenario Retail Website login test FAILED
+2021-12-08 21:01:18,164 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:01:34,370 [main] INFO logger_File - Scenario Retail Website login test FAILED
+2021-12-08 21:02:32,519 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:02:40,526 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 21:03:32,353 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:03:41,314 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 21:04:38,377 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:04:45,966 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 21:07:09,459 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:07:20,066 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 21:11:43,202 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:11:53,174 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 21:12:53,060 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:13:02,181 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 21:13:52,600 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:14:01,424 [main] INFO logger_File - Scenario Retail Website login test UNDEFINED
+2021-12-08 21:15:59,866 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:16:10,556 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-08 21:16:10,782 [main] INFO logger_File - User Click On Myaccount
+2021-12-08 21:16:25,227 [main] INFO logger_File - Scenario Retail Website login test FAILED
+2021-12-08 21:17:32,635 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:17:41,157 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-08 21:17:41,528 [main] INFO logger_File - User Click On Myaccount
+2021-12-08 21:18:11,606 [main] INFO logger_File - Scenario Retail Website login test FAILED
+2021-12-08 21:24:01,169 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-08 21:24:09,981 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-08 21:24:10,134 [main] INFO logger_File - User Click On Myaccount
+2021-12-08 21:24:10,492 [main] INFO logger_File - User Click on Login Option
+2021-12-08 21:24:10,907 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-08 21:24:11,500 [main] INFO logger_File - User Click on Login lOption
+2021-12-08 21:24:11,607 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-08 21:24:11,610 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-09 20:21:55,400 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 20:22:06,664 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 20:22:06,963 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 20:22:06,990 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-09 20:22:50,036 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 20:22:58,057 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 20:22:58,181 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 20:22:58,564 [main] INFO logger_File - User Click on Login Option
+2021-12-09 20:22:58,933 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-09 20:22:59,574 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 20:22:59,664 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 20:22:59,668 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-09 20:22:59,687 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-09 20:23:06,327 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 20:23:06,420 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 20:23:06,936 [main] INFO logger_File - User Click on Login Option
+2021-12-09 20:23:07,251 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-09 20:23:07,896 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 20:23:08,071 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 20:23:08,074 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-12-09 20:23:08,105 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-09 20:23:14,274 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-09 21:25:43,972 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:25:52,605 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:25:52,933 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:25:53,503 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:25:53,905 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-09 21:25:54,866 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:25:54,950 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:25:54,964 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-09 21:27:34,772 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:27:41,853 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:27:42,273 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:27:42,692 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:27:42,987 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-09 21:27:43,873 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:27:43,971 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:27:43,992 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-09 21:28:48,972 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:29:02,675 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:29:02,823 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:29:03,349 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:29:03,765 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-09 21:29:04,448 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:29:04,569 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:29:05,017 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-09 21:29:05,042 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-09 21:30:29,803 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:30:39,161 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:30:39,286 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:30:39,884 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:30:40,206 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-09 21:30:41,343 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:30:41,416 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:30:42,052 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-09 21:30:42,614 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-09 21:30:42,690 [main] INFO logger_File - User check on About us check box
+2021-12-09 21:30:43,093 [main] INFO logger_File - User click on Continue button
+2021-12-09 21:30:43,101 [main] INFO logger_File - User should see a success message
+2021-12-09 21:30:43,112 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-09 21:37:59,596 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:38:09,865 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:38:10,042 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:38:10,376 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:38:10,696 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-09 21:38:11,256 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:38:11,397 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:38:11,894 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-09 21:38:12,805 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-09 21:38:12,892 [main] INFO logger_File - User fill check detail
+2021-12-09 21:38:12,974 [main] INFO logger_File - User check on About us check box
+2021-12-09 21:38:13,363 [main] INFO logger_File - User click on Continue button
+2021-12-09 21:38:13,371 [main] INFO logger_File - User should see a success message
+2021-12-09 21:38:13,379 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-09 21:52:09,369 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:52:22,291 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:52:22,397 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:52:22,779 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:52:23,037 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-09 21:52:23,538 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:52:23,615 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:52:24,011 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-09 21:52:24,512 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-09 21:52:50,403 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-09 21:56:13,353 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:56:22,099 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:56:22,249 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:56:22,652 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:56:22,958 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-09 21:56:23,423 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:56:23,497 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:56:23,883 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-09 21:56:24,515 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-09 21:56:54,661 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-09 21:58:03,209 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-09 21:58:20,187 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-09 21:58:20,361 [main] INFO logger_File - User Click On Myaccount
+2021-12-09 21:58:21,408 [main] INFO logger_File - User Click on Login Option
+2021-12-09 21:58:21,746 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-09 21:58:23,206 [main] INFO logger_File - User Click on Login lOption
+2021-12-09 21:58:23,267 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-09 21:58:23,993 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-09 21:58:24,723 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-09 21:58:24,990 [main] INFO logger_File - User fill check detail
+2021-12-09 21:58:25,074 [main] INFO logger_File - User check on About us check box
+2021-12-09 21:58:26,131 [main] INFO logger_File - User click on Continue button
+2021-12-09 21:58:26,136 [main] INFO logger_File - User should see a success message
+2021-12-09 21:58:26,142 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-12 13:03:50,929 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 13:04:01,531 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 13:04:01,774 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 13:04:02,341 [main] INFO logger_File - User Click on Login Option
+2021-12-12 13:04:02,614 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 13:04:03,451 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 13:04:03,612 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 13:04:04,171 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 13:04:04,330 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-12 13:04:19,143 [main] INFO logger_File - User fill Bank information with below information
+2021-12-12 13:04:19,829 [main] INFO logger_File - User click on Continue button
+2021-12-12 13:04:19,838 [main] INFO logger_File - User should see a success message Continue
+2021-12-12 13:04:19,842 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-12 13:07:01,490 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 13:07:12,099 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 13:07:12,306 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 13:07:13,593 [main] INFO logger_File - User Click on Login Option
+2021-12-12 13:07:14,441 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 13:07:15,712 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 13:07:15,841 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 13:07:16,585 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 13:07:16,723 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 13:09:48,851 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 13:09:59,337 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 13:09:59,571 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 13:09:59,960 [main] INFO logger_File - User Click on Login Option
+2021-12-12 13:10:00,484 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 13:10:01,274 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 13:10:01,410 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 13:10:01,853 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 13:10:01,957 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 13:11:07,622 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 13:11:18,054 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 13:11:18,205 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 13:11:18,541 [main] INFO logger_File - User Click on Login Option
+2021-12-12 13:11:19,090 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 13:11:19,990 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 13:11:20,107 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 13:11:20,576 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 13:11:20,738 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 13:12:09,449 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 13:12:20,544 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 13:12:20,681 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 13:12:21,533 [main] INFO logger_File - User Click on Login Option
+2021-12-12 13:12:22,511 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 13:12:23,627 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 13:12:23,826 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 13:12:24,444 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 13:12:24,604 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 13:15:31,852 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 13:15:42,003 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 13:15:42,145 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 13:15:42,584 [main] INFO logger_File - User Click on Login Option
+2021-12-12 13:15:42,847 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 13:15:43,666 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 13:15:44,108 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 13:15:44,993 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 13:15:45,433 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 14:17:21,747 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 14:17:33,189 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 14:17:34,591 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 14:17:35,024 [main] INFO logger_File - User Click on Login Option
+2021-12-12 14:17:35,779 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 14:17:37,059 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 14:17:37,205 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 14:17:37,749 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 14:17:37,865 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 14:19:18,469 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 14:19:32,200 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 14:19:32,386 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 14:19:32,827 [main] INFO logger_File - User Click on Login Option
+2021-12-12 14:19:33,470 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 14:19:34,414 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 14:19:34,500 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 14:19:35,100 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-12 14:19:35,271 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-12 14:19:36,053 [main] INFO logger_File - User fill Bank information with below information
+2021-12-12 14:19:36,802 [main] INFO logger_File - User click on Continue button for Edit
+2021-12-12 14:19:36,809 [main] INFO logger_File - User should see a success message Continue
+2021-12-12 14:19:36,820 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-12 14:23:15,005 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-12 14:23:24,759 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 14:23:24,891 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 14:23:25,243 [main] INFO logger_File - User Click on Login Option
+2021-12-12 14:23:25,532 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 14:23:26,197 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 14:23:26,291 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 14:23:56,363 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-12 14:49:58,335 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-12 14:50:12,373 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 14:50:12,608 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 14:50:12,934 [main] INFO logger_File - User Click on Login Option
+2021-12-12 14:50:13,382 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 14:50:14,369 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 14:50:14,494 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-12 14:50:15,906 [main] INFO logger_File - User click on Edit your account information link
+2021-12-12 14:50:16,449 [main] INFO logger_File - User modify below information
+2021-12-12 14:50:17,015 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-12 14:50:17,018 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-12 14:50:17,027 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-12-12 15:15:44,000 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab Started
+2021-12-12 15:15:56,293 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 15:15:56,618 [main] INFO logger_File - user click on desktop tab
+2021-12-12 15:16:02,725 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab PASSED
+2021-12-12 15:16:02,815 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart Started
+2021-12-12 15:16:10,173 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 15:16:10,371 [main] INFO logger_File - user click on desktop tab
+2021-12-12 15:16:24,620 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart PASSED
+2021-12-12 15:16:24,753 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart Started
+2021-12-12 15:16:31,502 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 15:16:31,655 [main] INFO logger_File - user click on desktop tab
+2021-12-12 15:16:40,269 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-12-12 15:16:40,332 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab Started
+2021-12-12 15:16:47,935 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 15:16:48,082 [main] INFO logger_File - user click on desktop tab
+2021-12-12 15:16:56,882 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-12-12 15:16:57,002 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-12-12 15:17:03,599 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 15:17:06,517 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart AMBIGUOUS
+2021-12-12 15:17:06,764 [main] INFO logger_File - Scenario Product Comparison Started
+2021-12-12 15:17:21,201 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-12-12 15:17:21,289 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-12 15:17:30,012 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 15:17:31,456 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); FAILED
+2021-12-12 15:17:31,502 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-12 20:18:11,822 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-12 20:18:24,044 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:18:24,206 [main] INFO logger_File - User Click On Myaccount
+2021-12-12 20:18:25,690 [main] INFO logger_File - User Click on Login Option
+2021-12-12 20:18:25,940 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-12 20:18:26,306 [main] INFO logger_File - User Click on Login lOption
+2021-12-12 20:18:46,115 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-12 20:19:21,840 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab Started
+2021-12-12 20:19:30,880 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:19:31,011 [main] INFO logger_File - user click on desktop tab
+2021-12-12 20:19:33,458 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab PASSED
+2021-12-12 20:19:33,491 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart Started
+2021-12-12 20:19:39,522 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:19:39,576 [main] INFO logger_File - user click on desktop tab
+2021-12-12 20:19:47,810 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart PASSED
+2021-12-12 20:19:47,857 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart Started
+2021-12-12 20:19:53,474 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:19:53,546 [main] INFO logger_File - user click on desktop tab
+2021-12-12 20:19:59,021 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-12-12 20:19:59,097 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab Started
+2021-12-12 20:20:06,365 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:20:06,443 [main] INFO logger_File - user click on desktop tab
+2021-12-12 20:20:29,482 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-12-12 20:20:29,567 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-12-12 20:20:35,463 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:20:40,037 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart AMBIGUOUS
+2021-12-12 20:20:40,109 [main] INFO logger_File - Scenario Product Comparison Started
+2021-12-12 20:20:46,760 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:20:55,924 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-12-12 20:20:56,260 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-12 20:21:02,846 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:21:04,080 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); PASSED
+2021-12-12 20:21:04,117 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-12 20:21:09,363 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-12 20:21:12,911 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
