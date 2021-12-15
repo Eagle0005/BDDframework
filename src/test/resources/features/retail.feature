@@ -4,11 +4,10 @@ Background:
 Given User is on Retail website 
 And User click  on MyAccount
 When User click on Login 
-And User enter username "test2@yahoo.com" and password "test"
+And User enter username "abc19@yahoo.com" and password "test"
 And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
-@smoke
 Scenario Outline: Register as an Affiliate user with Cheque Payment Method
 When User click on Register for an Affiliate Account link 
 And User fill affiliate form with below information '<company>' '<website>' '<taxID>' '<paymentMethod>'
@@ -21,7 +20,7 @@ Examples:
 |company|website|taxID|paymentMethod|
 |Amazon|www.amazon.com|0002222|check|
 
-@Regression
+@smoke
 Scenario Outline: Edit your affiliate information from Cheque payment method to Bank Transfer
 When User click on Edit your affiliate informationlink 
 And user click on Bank Transfer radio button
@@ -33,7 +32,7 @@ Examples:
 |bankName|abaNumber|swiftCode|accountName|accountNumber|
 |BOFA|8888555|swiftCode|accountName|accountNumber|
 
-@Sanity
+
 Scenario Outline: Edit your account Information 
 When User click on Edit your account information link 
 And User modify below information '<firstname>' '<lastName>' '<email>' '<telephone>'

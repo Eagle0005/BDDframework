@@ -407,3 +407,125 @@
 2021-12-12 20:21:04,117 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
 2021-12-12 20:21:09,363 [main] INFO logger_File - Actual Title is matching with expected Title
 2021-12-12 20:21:12,911 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-12-14 19:49:07,722 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:49:16,019 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:49:16,137 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:49:16,489 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:49:16,905 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-14 19:49:17,293 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:49:47,393 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:49:47,442 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:49:54,594 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:49:54,762 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:49:55,124 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:49:55,324 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-14 19:49:55,589 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:50:25,655 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 19:50:25,692 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:50:30,808 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:50:30,938 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:50:31,344 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:50:31,581 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-14 19:50:32,005 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:51:02,049 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 19:51:32,508 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:51:39,302 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:51:39,456 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:51:39,892 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:51:40,179 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-14 19:51:40,504 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:51:51,111 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:52:10,059 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:52:16,988 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:52:17,146 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:52:17,584 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:52:17,829 [main] INFO logger_File - Usertest2@yahoo.comand password test
+2021-12-14 19:52:18,149 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:52:48,263 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:52:56,636 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:53:04,103 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:53:04,375 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:53:04,726 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:53:05,353 [main] INFO logger_File - Usertest4@yahoo.comand password test
+2021-12-14 19:53:05,914 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:53:36,051 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:56:01,019 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:56:09,426 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:56:09,652 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:56:10,165 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:56:11,082 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-14 19:56:11,904 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:56:12,040 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 19:56:14,221 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:56:23,650 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:56:23,817 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:56:24,194 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:56:24,524 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-14 19:56:25,084 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:56:25,264 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 19:56:28,462 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:56:42,138 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:56:42,232 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:56:46,965 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:56:47,080 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:56:47,427 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:56:47,636 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-14 19:56:48,164 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:56:48,240 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 19:56:48,706 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-14 19:56:48,833 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-14 19:56:49,419 [main] INFO logger_File - User fill Bank information with below information
+2021-12-14 19:56:49,861 [main] INFO logger_File - User click on Continue button for Edit
+2021-12-14 19:56:49,863 [main] INFO logger_File - User should see a success message Continue
+2021-12-14 19:56:49,866 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-14 19:56:49,894 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:56:57,476 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:56:57,575 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:56:57,886 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:56:58,094 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-14 19:56:58,507 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:56:58,621 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 19:56:59,472 [main] INFO logger_File - User click on Edit your account information link
+2021-12-14 19:56:59,913 [main] INFO logger_File - User modify below information
+2021-12-14 19:57:00,497 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-14 19:57:00,499 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-14 19:57:00,501 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-12-14 19:58:53,579 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:58:59,327 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 19:58:59,483 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 19:58:59,910 [main] INFO logger_File - User Click on Login Option
+2021-12-14 19:59:00,276 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-14 19:59:00,784 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 19:59:23,833 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 20:01:36,823 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 20:01:43,841 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 20:01:43,946 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 20:01:44,326 [main] INFO logger_File - User Click on Login Option
+2021-12-14 20:01:44,594 [main] INFO logger_File - Usertest@yahoo.comand password test
+2021-12-14 20:01:44,932 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 20:01:45,000 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 20:02:15,052 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 20:05:20,767 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 20:05:26,527 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 20:05:26,711 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 20:05:27,030 [main] INFO logger_File - User Click on Login Option
+2021-12-14 20:05:27,320 [main] INFO logger_File - Userabc19@yahoo.comoand password test
+2021-12-14 20:05:27,664 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 20:05:27,764 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 20:05:57,859 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 20:19:08,651 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 20:19:14,765 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 20:19:14,936 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 20:19:15,290 [main] INFO logger_File - User Click on Login Option
+2021-12-14 20:19:15,817 [main] INFO logger_File - Userabc19@yahoo.comand password test
+2021-12-14 20:19:16,333 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 20:19:16,430 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 20:19:45,348 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 20:20:13,453 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 20:20:19,476 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 20:20:19,658 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 20:20:20,093 [main] INFO logger_File - User Click on Login Option
+2021-12-14 20:20:20,547 [main] INFO logger_File - Userabc19@yahoo.comand password test
+2021-12-14 20:20:21,051 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 20:20:21,143 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 20:20:38,061 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED

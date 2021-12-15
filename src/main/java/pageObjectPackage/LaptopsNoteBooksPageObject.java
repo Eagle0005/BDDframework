@@ -119,9 +119,14 @@ public class LaptopsNoteBooksPageObject extends Base {
 	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
 	private WebElement LoginAlert;
 
-	public void LoginAlertClick() {
-		LoginAlert.click();
-
+	public boolean LoginAlertClick() {
+		if(LoginAlert.isDisplayed()) {
+			return true;
+			
+		}
+			else {
+				return false;
+		}
 	}
 
 	@FindBy(xpath = "//a[text()='MacBook Pro']")

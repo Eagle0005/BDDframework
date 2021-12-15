@@ -30,7 +30,7 @@ public class RetailPageObjects extends Base {
 	@FindBy (xpath ="//input[@value='Login']")
 	private WebElement loginclick;
 
-	@FindBy (xpath = "//h2[text()='My Account']")
+	@FindBy (xpath = "//*[@id=\"top-links\"]/ul/li[2]/a/span[1]")
 	private WebElement myAccountText;
 	
 	@FindBy (xpath = "//a[contains(text(),'Register for an affiliate account')]")

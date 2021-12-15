@@ -20,7 +20,7 @@ import utilities.CucumberReportingConfig;
 		// plugin will be used for generating a readable report
 		features = "C:\\Users\\15716\\eclipse-workspace\\com.capstonproject.assignment\\src\\test\\resources\\features",
 		glue = "stepDefinitions",
-		tags = "@smokeTest", 
+		tags = "@smoke", 
 		dryRun = false, 
 		monochrome = true, 
 		strict = true, 
