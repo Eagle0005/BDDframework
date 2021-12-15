@@ -79,7 +79,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>Tek School bank</td>
               <td>1</td>
-            <td>14 Dec 2021, 20:20</td>
+            <td>14 Dec 2021, 21:05</td>
     </tr>
   </tbody>
 </table>
@@ -132,18 +132,18 @@ $(document).ready(function() {
         <tbody>
         <tr>
           <td class="tagname">For this feature you have to have an existing account</td>
-          <td      class="passed"    >6</td>
+          <td      class="passed"    >5</td>
           <td      class="failed"    >1</td>
-          <td     class="skipped"   >4</td>
+          <td     class="skipped"   >5</td>
           <td >0</td>
           <td >0</td>
           <td class="total">11</td>
 
+          <td  class="passed"    >1</td>
           <td >0</td>
-          <td  class="failed"    >1</td>
           <td class="total">1</td>
 
-          <td class="duration" data-value="18632720700">18.632</td>
+          <td class="duration" data-value="31507610100">31.507</td>
           <td class="failed">Failed</td>
         </tr>
         </tbody>
@@ -194,12 +194,12 @@ $(document).ready(function() {
   </div>
 
   
-  <span class="lead-duration duration">1.722</span>
+  <span class="lead-duration duration">31.506</span>
 
 
-    <span data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#element-1">
+    <span data-toggle="collapse" class=" collapsable-control" data-target="#element-1">
     
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Background</span>
   <span class="name"></span>
   
@@ -210,16 +210,16 @@ $(document).ready(function() {
   </span>
   <div class="description indention"></div>
 
-  <div id="element-1" class="collapse collapsable-details ">
+  <div id="element-1" class="collapse collapsable-details  in ">
     
 
 
 
     
 <div class="steps inner-level">
-    <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#steps-2">
+    <div data-toggle="collapse" class=" collapsable-control" data-target="#steps-2">
     
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Steps</span>
   <span class="name"></span>
   
@@ -229,14 +229,14 @@ $(document).ready(function() {
 
   </div>
 
-  <div id="steps-2" class="inner-level collapse collapsable-details ">
+  <div id="steps-2" class="inner-level collapse collapsable-details  in ">
           <div class="step">
         
 <div class="brief passed">
   <span class="keyword indention">Given</span>
   <span class="name">User is on Retail website</span>
   
-  <span class="lead-duration duration">0.066</span>
+  <span class="lead-duration duration">0.087</span>
 
 </div>
 
@@ -262,7 +262,7 @@ $(document).ready(function() {
   <span class="keyword indention">And</span>
   <span class="name">User click  on MyAccount</span>
   
-  <span class="lead-duration duration">0.180</span>
+  <span class="lead-duration duration">0.107</span>
 
 </div>
 
@@ -288,7 +288,7 @@ $(document).ready(function() {
   <span class="keyword indention">When</span>
   <span class="name">User click on Login</span>
   
-  <span class="lead-duration duration">0.434</span>
+  <span class="lead-duration duration">0.363</span>
 
 </div>
 
@@ -314,7 +314,7 @@ $(document).ready(function() {
   <span class="keyword indention">And</span>
   <span class="name">User enter username <span class="argument">&quot;abc19@yahoo.com&quot;</span> and password <span class="argument">&quot;test&quot;</span></span>
   
-  <span class="lead-duration duration">0.452</span>
+  <span class="lead-duration duration">0.429</span>
 
 </div>
 
@@ -340,7 +340,7 @@ $(document).ready(function() {
   <span class="keyword indention">And</span>
   <span class="name">User click on Login button</span>
   
-  <span class="lead-duration duration">0.503</span>
+  <span class="lead-duration duration">0.437</span>
 
 </div>
 
@@ -362,11 +362,11 @@ $(document).ready(function() {
       </div>
           <div class="step">
         
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Then</span>
   <span class="name">User should be logged in to MyAccount dashboard</span>
   
-  <span class="lead-duration duration">0.085</span>
+  <span class="lead-duration duration">30.079</span>
 
 </div>
 
@@ -374,6 +374,47 @@ $(document).ready(function() {
 
 
         
+
+  <div class="inner-level">
+    <div class="message indention">
+      <div data-toggle="collapse" class=" collapsable-control" data-target="#msg-3">
+          <a>org.openqa.selenium.NoSuchElementException:</a>
+      </div>
+      <div id="msg-3" class="collapse collapsable-details  in ">
+        <pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@id='account-account']//*[text()='My Account']&quot;}
+  (Session info: chrome=96.0.4664.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-9M8799I0', ip: '192.168.86.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.93, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\15716\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50781}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a37fcb86910bdf8bcf04d48a896b13ce
+*** Element info: {Using=xpath, value=//div[@id='account-account']//*[text()='My Account']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy21.isDisplayed(Unknown Source)
+	at pageObjectPackage.RetailPageObjects.myAccountTextisPresentretail(RetailPageObjects.java:199)
+	at stepDefinitions.RetailStepDefinitions.User_Should_Be_login_to_Myaccount_Dashboard(RetailStepDefinitions.java:53)
+	at &#10045;.User should be logged in to MyAccount dashboard(file:///C:/Users/15716/eclipse-workspace/com.capstonproject.assignment/src/test/resources/features/retail.feature:9)
+</pre>
+      </div>
+    </div>
+  </div>
 
 
         
@@ -406,12 +447,12 @@ $(document).ready(function() {
       </div>
 
   
-  <span class="lead-duration duration">16.909</span>
+  <span class="lead-duration duration">0.001</span>
 
 
-    <span data-toggle="collapse" class=" collapsable-control" data-target="#element-3">
+    <span data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#element-4">
     
-<div class="brief failed">
+<div class="brief passed">
   <span class="keyword indention">Scenario Outline</span>
   <span class="name">Edit your affiliate information from Cheque payment method to Bank Transfer</span>
   
@@ -422,11 +463,11 @@ $(document).ready(function() {
   </span>
   <div class="description indention"></div>
 
-  <div id="element-3" class="collapse collapsable-details  in ">
+  <div id="element-4" class="collapse collapsable-details ">
     
 
   <div class="inner-level hooks-element-before">
-        <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#before-4">
+        <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#before-5">
       
 <div class="brief passed">
   <span class="keyword indention">Hooks</span>
@@ -438,13 +479,13 @@ $(document).ready(function() {
 
     </div>
 
-    <div id="before-4" class="inner-level collapse collapsable-details ">
+    <div id="before-5" class="inner-level collapse collapsable-details ">
               <div class="hook">
           <div class="brief passed">
             <span class="keyword indention">Before</span>
                           <span class="location name">stepDefinitions.Initializer.beforHooks(io.cucumber.java.Scenario)</span>
                         
-  <span class="lead-duration duration">6.139</span>
+  <span class="lead-duration duration">5.756</span>
 
           </div>
 
@@ -461,9 +502,9 @@ $(document).ready(function() {
 
     
 <div class="steps inner-level">
-    <div data-toggle="collapse" class=" collapsable-control" data-target="#steps-5">
+    <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#steps-6">
     
-<div class="brief failed">
+<div class="brief passed">
   <span class="keyword indention">Steps</span>
   <span class="name"></span>
   
@@ -473,14 +514,14 @@ $(document).ready(function() {
 
   </div>
 
-  <div id="steps-5" class="inner-level collapse collapsable-details  in ">
+  <div id="steps-6" class="inner-level collapse collapsable-details ">
           <div class="step">
         
-<div class="brief failed">
+<div class="brief skipped">
   <span class="keyword indention">When</span>
   <span class="name">User click on Edit your affiliate informationlink</span>
   
-  <span class="lead-duration duration">16.907</span>
+  <span class="lead-duration duration">0.001</span>
 
 </div>
 
@@ -488,32 +529,6 @@ $(document).ready(function() {
 
 
         
-
-  <div class="inner-level">
-    <div class="message indention">
-      <div data-toggle="collapse" class=" collapsable-control" data-target="#msg-6">
-          <a>org.openqa.selenium.NoSuchElementException:</a>
-      </div>
-      <div id="msg-6" class="collapse collapsable-details  in ">
-        <pre>org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//a[text()='Edit your affiliate information']
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-9M8799I0', ip: '192.168.86.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy21.click(Unknown Source)
-	at pageObjectPackage.RetailPageObjects.affiliate(RetailPageObjects.java:66)
-	at stepDefinitions.RetailStepDefinitions.User_click_on_EditAffiliate(RetailStepDefinitions.java:97)
-	at &#10045;.User click on Edit your affiliate informationlink(file:///C:/Users/15716/eclipse-workspace/com.capstonproject.assignment/src/test/resources/features/retail.feature:25)
-</pre>
-      </div>
-    </div>
-  </div>
 
 
         

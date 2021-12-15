@@ -31,7 +31,7 @@ public class RetailStepDefinitions extends Base{
 	@And("^User click on Login$")
 	public void User_Click_on_Login() {
 		retail.clickloginbuttonretail();
-		logger.info("User Click on Login Option");
+		logger.info("User Click on Login");
 		
 	}
 	@When("User enter username {string} and password {string}")

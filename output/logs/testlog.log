@@ -529,3 +529,11 @@
 2021-12-14 20:20:21,051 - logger_File -INFO - User Click on Login lOption
 2021-12-14 20:20:21,143 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
 2021-12-14 20:20:38,061 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 21:04:56,740 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 21:05:02,459 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 21:05:02,569 - logger_File -INFO - User Click On Myaccount
+2021-12-14 21:05:02,934 - logger_File -INFO - User Click on Login
+2021-12-14 21:05:03,364 - logger_File -INFO - Userabc19@yahoo.comand password test
+2021-12-14 21:05:03,804 - logger_File -INFO - User Click on Login lOption
+2021-12-14 21:05:33,899 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 21:06:39,798 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
