@@ -537,3 +537,10 @@
 2021-12-14 21:05:03,804 [main] INFO logger_File - User Click on Login lOption
 2021-12-14 21:05:33,899 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
 2021-12-14 21:06:39,798 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 21:06:45,909 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-14 21:06:46,033 [main] INFO logger_File - User Click On Myaccount
+2021-12-14 21:06:46,388 [main] INFO logger_File - User Click on Login
+2021-12-14 21:06:46,738 [main] INFO logger_File - Userkabira@hotmail.comand password test
+2021-12-14 21:06:47,683 [main] INFO logger_File - User Click on Login lOption
+2021-12-14 21:06:47,769 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-14 21:07:17,828 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
