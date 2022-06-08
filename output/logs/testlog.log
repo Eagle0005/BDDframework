@@ -544,3 +544,13 @@
 2021-12-14 21:06:47,683 - logger_File -INFO - User Click on Login lOption
 2021-12-14 21:06:47,769 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
 2021-12-14 21:07:17,828 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-04-20 22:21:26,614 - logger_File -INFO - Scenario Validate Google search is working Started
+2022-04-20 22:21:33,002 - logger_File -INFO - Scenario Validate Google search is working UNDEFINED
+2022-04-20 23:27:25,883 - logger_File -INFO - Scenario Validate Google search is working Started
+2022-04-20 23:27:31,623 - logger_File -INFO - Scenario Validate Google search is working PASSED
+2022-04-20 23:27:53,897 - logger_File -INFO - Scenario Validate Google search is working Started
+2022-04-20 23:27:59,313 - logger_File -INFO - Scenario Validate Google search is working PASSED
+2022-04-20 23:29:36,260 - logger_File -INFO - Scenario Validate Google search is working Started
+2022-04-20 23:29:41,829 - logger_File -INFO - Scenario Validate Google search is working PASSED
+2022-04-20 23:41:30,713 - logger_File -INFO - Scenario Validate Google search is working Started
+2022-04-20 23:41:35,959 - logger_File -INFO - Scenario Validate Google search is working PASSED
